@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "880695428154",
+    "project_id": "blurface-fcbe6",
+    "storage_bucket": "blurface-fcbe6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:880695428154:android:4b3a7cc07fb0068884e103",
+        "android_client_info": {
+          "package_name": "com.mukesh.blurface"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "880695428154-u78qg8j677j31b4g9eacpd3rerqkmpog.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAVA469HoUzESEZK7Px4GPs4THe8Airju0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "880695428154-u78qg8j677j31b4g9eacpd3rerqkmpog.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
